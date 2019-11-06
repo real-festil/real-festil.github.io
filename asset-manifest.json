@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ed5a0aa.chunk.css",
+    "main.js": "/static/js/main.b6592019.chunk.js",
+    "main.js.map": "/static/js/main.b6592019.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a6be4de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a6be4de.js.map",
+    "static/js/2.550ea0cd.chunk.js": "/static/js/2.550ea0cd.chunk.js",
+    "static/js/2.550ea0cd.chunk.js.map": "/static/js/2.550ea0cd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3b680dbdbc46eccc2ca60fd5da87bda1.js": "/precache-manifest.3b680dbdbc46eccc2ca60fd5da87bda1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4ed5a0aa.chunk.css.map": "/static/css/main.4ed5a0aa.chunk.css.map",
+    "static/media/Header.module.css": "/static/media/backgroundHeader.8a0116d0.jfif",
+    "static/media/burgerBuilder.png": "/static/media/burgerBuilder.2542b82c.png",
+    "static/media/htmlcss.svg": "/static/media/htmlcss.03ce6cbd.svg",
+    "static/media/projectImage.jpg": "/static/media/projectImage.91455950.jpg",
+    "static/media/sql.jpg": "/static/media/sql.13a8ba6a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6be4de.js",
+    "static/js/2.550ea0cd.chunk.js",
+    "static/css/main.4ed5a0aa.chunk.css",
+    "static/js/main.b6592019.chunk.js"
+  ]
+}
