@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shopApp/static/css/main.a15c1319.chunk.css",
+    "main.js": "/shopApp/static/js/main.63010f45.chunk.js",
+    "main.js.map": "/shopApp/static/js/main.63010f45.chunk.js.map",
+    "runtime-main.js": "/shopApp/static/js/runtime-main.bfa07760.js",
+    "runtime-main.js.map": "/shopApp/static/js/runtime-main.bfa07760.js.map",
+    "static/css/2.55521911.chunk.css": "/shopApp/static/css/2.55521911.chunk.css",
+    "static/js/2.43740d4e.chunk.js": "/shopApp/static/js/2.43740d4e.chunk.js",
+    "static/js/2.43740d4e.chunk.js.map": "/shopApp/static/js/2.43740d4e.chunk.js.map",
+    "index.html": "/shopApp/index.html",
+    "precache-manifest.7e870554d26ab5903cf76edbce7b7c04.js": "/shopApp/precache-manifest.7e870554d26ab5903cf76edbce7b7c04.js",
+    "service-worker.js": "/shopApp/service-worker.js",
+    "static/css/2.55521911.chunk.css.map": "/shopApp/static/css/2.55521911.chunk.css.map",
+    "static/css/main.a15c1319.chunk.css.map": "/shopApp/static/css/main.a15c1319.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa07760.js",
+    "static/css/2.55521911.chunk.css",
+    "static/js/2.43740d4e.chunk.js",
+    "static/css/main.a15c1319.chunk.css",
+    "static/js/main.63010f45.chunk.js"
+  ]
+}
