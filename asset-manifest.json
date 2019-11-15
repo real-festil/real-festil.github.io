@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/shopApp/static/css/main.a15c1319.chunk.css",
-    "main.js": "/shopApp/static/js/main.63010f45.chunk.js",
-    "main.js.map": "/shopApp/static/js/main.63010f45.chunk.js.map",
-    "runtime-main.js": "/shopApp/static/js/runtime-main.bfa07760.js",
-    "runtime-main.js.map": "/shopApp/static/js/runtime-main.bfa07760.js.map",
-    "static/css/2.55521911.chunk.css": "/shopApp/static/css/2.55521911.chunk.css",
-    "static/js/2.43740d4e.chunk.js": "/shopApp/static/js/2.43740d4e.chunk.js",
-    "static/js/2.43740d4e.chunk.js.map": "/shopApp/static/js/2.43740d4e.chunk.js.map",
-    "index.html": "/shopApp/index.html",
-    "precache-manifest.7e870554d26ab5903cf76edbce7b7c04.js": "/shopApp/precache-manifest.7e870554d26ab5903cf76edbce7b7c04.js",
-    "service-worker.js": "/shopApp/service-worker.js",
-    "static/css/2.55521911.chunk.css.map": "/shopApp/static/css/2.55521911.chunk.css.map",
-    "static/css/main.a15c1319.chunk.css.map": "/shopApp/static/css/main.a15c1319.chunk.css.map"
+    "main.css": "/static/css/main.1858ca88.chunk.css",
+    "main.js": "/static/js/main.422a0d85.chunk.js",
+    "main.js.map": "/static/js/main.422a0d85.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a6be4de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a6be4de.js.map",
+    "static/js/2.4b836493.chunk.js": "/static/js/2.4b836493.chunk.js",
+    "static/js/2.4b836493.chunk.js.map": "/static/js/2.4b836493.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3d88e3c966714262c510352c0db7d8bd.js": "/precache-manifest.3d88e3c966714262c510352c0db7d8bd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1858ca88.chunk.css.map": "/static/css/main.1858ca88.chunk.css.map",
+    "static/media/Header.module.css": "/static/media/backgroundHeader.8a0116d0.jfif",
+    "static/media/burgerBuilder.png": "/static/media/burgerBuilder.2542b82c.png",
+    "static/media/htmlcss.svg": "/static/media/htmlcss.03ce6cbd.svg",
+    "static/media/projectImage.jpg": "/static/media/projectImage.91455950.jpg",
+    "static/media/shop.png": "/static/media/shop.b1e4d0a7.png",
+    "static/media/sql.jpg": "/static/media/sql.13a8ba6a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfa07760.js",
-    "static/css/2.55521911.chunk.css",
-    "static/js/2.43740d4e.chunk.js",
-    "static/css/main.a15c1319.chunk.css",
-    "static/js/main.63010f45.chunk.js"
+    "static/js/runtime-main.9a6be4de.js",
+    "static/js/2.4b836493.chunk.js",
+    "static/css/main.1858ca88.chunk.css",
+    "static/js/main.422a0d85.chunk.js"
   ]
 }
